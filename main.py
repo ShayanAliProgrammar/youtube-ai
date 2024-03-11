@@ -42,7 +42,7 @@ def get_video_transcription():
 
         return TextFormatter().format_transcript(video_transcript)
     except Exception as e:
-        return "OOPS! Something went wrong."
+        raise e
 
 
 def get_answer(query, video_transcription):

@@ -11,17 +11,23 @@ You may use this Python script to create a useful AI Q&A assistant that answers 
 
 1. Clone the repository:
 
-    '''Bash git clone https://github.com/your_username/your_repo.git '''
+    ```bash
+   git clone https://github.com/your_username/your_repo.git
+   ```
 
 2. Install the essential prerequisites.
 
-    '''Bash pip install -r requirements.txt '''
+    ```bash
+    pip install -r requirements.txt
+   ```
 
 ## Usage
 
 1. Run this script:
 
-    '''Bash python main.py '''
+    ```bash
+   python main.py
+   ```
 
 2. When asked, provide the URL to an allowed YouTube video.
 3. Submit your question to the helper here.

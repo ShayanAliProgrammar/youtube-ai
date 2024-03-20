@@ -12,7 +12,7 @@ You may use this Python script to create a useful AI Q&A assistant that answers 
 1. Clone the repository:
 
     ```bash
-   git clone https://github.com/your_username/your_repo.git
+   git clone https://github.com/ShayanAliProgrammar/youtube-ai.git
    ```
 
 2. Install the essential prerequisites.

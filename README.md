@@ -18,7 +18,7 @@ You may use this Python script to create a useful AI Q&A assistant that answers 
 2. Install the essential prerequisites.
 
     ```bash
-    pip install -r requirements.txt
+    pip install langchain==0.1.12 langchain-google-genai==0.0.11 youtube-transcript-api==0.6.2
    ```
 
 ## Usage
